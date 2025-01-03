@@ -5,12 +5,12 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "我的筆記",
+  tagline: "",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://github.com/Gou935",
+  url: "https://gou935.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/note/",
@@ -39,7 +39,6 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Gou935/note935.git",
         },
         blog: {
           showReadingTime: true,
@@ -66,21 +65,21 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Gou's Note",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/kirby.jpg",
       },
       items: [
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "筆記",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/Gou935/note",
           label: "GitHub",
           position: "right",
         },
@@ -124,7 +123,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/Gou935/note",
             },
           ],
         },
