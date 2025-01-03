@@ -1,18 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>我的筆記 Blog</title>
         <link>https://gou935.github.io/note/blog</link>
-        <description>My Site Blog</description>
+        <description>我的筆記 Blog</description>
         <lastBuildDate>Sat, 04 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[first-blog-post]]></title>
-            <link>https://gou935.github.io/note/blog/2025/01/04/first-blog-post</link>
-            <guid>https://gou935.github.io/note/blog/2025/01/04/first-blog-post</guid>
+            <title><![CDATA[2025的七件事情]]></title>
+            <link>https://gou935.github.io/note/blog/2025-first-blog-post</link>
+            <guid>https://gou935.github.io/note/blog/2025-first-blog-post</guid>
             <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[在看了 Wiwi.Blog 的這篇文章後覺得很有啟發，也想趁著新年開始有幹勁時給自己一些期許。]]></description>
+            <content:encoded><![CDATA[<p>在看了 Wiwi.Blog 的<a href="https://wiwi.blog/blog/seven-questions" target="_blank" rel="noopener noreferrer">這篇文章</a>後覺得很有啟發，也想趁著新年開始有幹勁時給自己一些期許。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-過去一年的亮點">1. 過去一年的亮點<a href="https://gou935.github.io/note/blog/2025-first-blog-post#1-%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E7%9A%84%E4%BA%AE%E9%BB%9E" class="hash-link" aria-label="Direct link to 1. 過去一年的亮點" title="Direct link to 1. 過去一年的亮點">​</a></h3>
+<p>老實說，雖然覺得沒什麼亮點，但還是有完成以下的事情。</p>
+<ul>
+<li>完成了四個月的兵役</li>
+<li>考到駕照</li>
+<li>重新開始學鼓</li>
+<li>幫忙打擊樂團的幕後工作</li>
+<li>用 Garageband 完成了一首日語歌的 Cover</li>
+<li>去台東、高雄玩了一個禮拜</li>
+<li>在電腦上架了自己的筆記系統</li>
+<li>搞定了家中吃灰的 NAS</li>
+</ul>
+<p>回過頭來看其實也還不錯，並沒有自己想的那麼無聊。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-這一年中最困難的部分">2. 這一年中最困難的部分<a href="https://gou935.github.io/note/blog/2025-first-blog-post#2-%E9%80%99%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E5%9B%B0%E9%9B%A3%E7%9A%84%E9%83%A8%E5%88%86" class="hash-link" aria-label="Direct link to 2. 這一年中最困難的部分" title="Direct link to 2. 這一年中最困難的部分">​</a></h3>
+<p>我的人生處在一個尷尬的，最難的應該是跟著計劃走吧，原子習慣說的</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-這一年來對自己的認識">3. 這一年來對自己的認識<a href="https://gou935.github.io/note/blog/2025-first-blog-post#3-%E9%80%99%E4%B8%80%E5%B9%B4%E4%BE%86%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AA%8D%E8%AD%98" class="hash-link" aria-label="Direct link to 3. 這一年來對自己的認識" title="Direct link to 3. 這一年來對自己的認識">​</a></h3>
+<p>在 2024 這一整年</p>
+<ul>
+<li>喜歡寫 Blog</li>
+<li>我需要一個穩定的生活節奏</li>
+</ul>
+<p>真的不是一個適合晚睡的人</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-明年要停止做的事情">4. 明年要停止做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#4-%E6%98%8E%E5%B9%B4%E8%A6%81%E5%81%9C%E6%AD%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 4. 明年要停止做的事情" title="Direct link to 4. 明年要停止做的事情">​</a></h3>
+<ul>
+<li>熬夜</li>
+<li>半夜吃零食</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-明年要開始做的事情">5. 明年要開始做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#5-%E6%98%8E%E5%B9%B4%E8%A6%81%E9%96%8B%E5%A7%8B%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 5. 明年要開始做的事情" title="Direct link to 5. 明年要開始做的事情">​</a></h3>
+<ul>
+<li>
+<p>開始玩以前買過的遊戲</p>
+<p>說到吃灰的東西，其實我的 Switch 也吃灰了好一陣子。年初買的 <a href="https://persona.atlus.com/p5r/" target="_blank" rel="noopener noreferrer">P5R</a>到現在也只破了第一章節。
+除了</p>
+</li>
+<li>
+<p>養成每天學習語言的習慣</p>
+<p>作為一名留學生，雖然英日語都有一些基礎，很明顯的我的英日語能力都還不夠精通。希望除了</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-明年要繼續做的事情">6. 明年要繼續做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#6-%E6%98%8E%E5%B9%B4%E8%A6%81%E7%B9%BC%E7%BA%8C%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 6. 明年要繼續做的事情" title="Direct link to 6. 明年要繼續做的事情">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-今天要採取的第一步">7. 今天要採取的第一步<a href="https://gou935.github.io/note/blog/2025-first-blog-post#7-%E4%BB%8A%E5%A4%A9%E8%A6%81%E6%8E%A1%E5%8F%96%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5" class="hash-link" aria-label="Direct link to 7. 今天要採取的第一步" title="Direct link to 7. 今天要採取的第一步">​</a></h3>
+<p>我想簡單點，就先從早點睡覺開始吧。晚安～</p>]]></content:encoded>
+            <category>Hola</category>
+            <category>Docusaurus</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
