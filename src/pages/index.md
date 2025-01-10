@@ -1,5 +1,5 @@
 ---
-title: "我的筆記首頁"
+title: "Gou的學習筆記"
 slug: /note/
 ---
 
@@ -17,4 +17,4 @@ slug: /note/
 # 🥳 **[部落格](https:/gou935.github.io/note//blog)**
 
 這裡是我的部落格，主要是日常生活的紀錄文章。
-大概會有一堆廢文。
+大概會有一堆廢文～

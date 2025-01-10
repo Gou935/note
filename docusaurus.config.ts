@@ -5,9 +5,9 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "我的筆記",
+  title: "Gou's Note",
   tagline: "",
-  favicon: "img/kirby.jpg",
+  favicon: "img/kirby_run.png",
 
   // Set the production url of your site here
   url: "https://gou935.github.io",
@@ -69,7 +69,7 @@ const config: Config = {
       title: "Gou's Note",
       logo: {
         alt: "My Site Logo",
-        src: "img/kirby.jpg",
+        src: "img/kirby_run.png",
       },
       items: [
         {
@@ -79,11 +79,6 @@ const config: Config = {
           label: "筆記",
         },
         { to: "/blog", label: "部落格", position: "left" },
-        {
-          href: "https://github.com/Gou935/note",
-          label: "GitHub",
-          position: "right",
-        },
       ],
     },
     footer: {
@@ -110,9 +105,18 @@ const config: Config = {
               label: "Gou's Blog",
               href: "https://gou935.com",
             },
+          ],
+        },
+        {
+          title: "聯絡方式",
+          items: [
             {
               label: "GitHub",
-              href: "https://github.com/Gou935/note",
+              href: "https://github.com/Gou935/",
+            },
+            {
+              label: "Email",
+              href: "mailto:goublog@outlook.com",
             },
             {
               label: "X",

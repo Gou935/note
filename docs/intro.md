@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Gou 的學習筆記
+# 筆記首頁
 
 這個筆記是使用 Docusaurus 架設的。
 
