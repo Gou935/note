@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "我的筆記",
   tagline: "",
-  favicon: "img/favicon.ico",
+  favicon: "img/kirby.jpg",
 
   // Set the production url of your site here
   url: "https://gou935.github.io",
@@ -63,6 +63,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Gou's Note",
@@ -77,7 +78,7 @@ const config: Config = {
           position: "left",
           label: "筆記",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "部落格", position: "left" },
         {
           href: "https://github.com/Gou935/note",
           label: "GitHub",
@@ -89,24 +90,29 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "站內連結",
           items: [
             {
-              label: "Tutorial",
+              label: "筆記",
               to: "/docs/intro",
+            },
+            {
+              label: "部落格",
+              to: "/blog",
             },
           ],
         },
+
         {
-          title: "Community",
+          title: "我的其他網站",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Gou's Blog",
+              href: "https://gou935.com",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "GitHub",
+              href: "https://github.com/Gou935/note",
             },
             {
               label: "X",
@@ -114,21 +120,8 @@ const config: Config = {
             },
           ],
         },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/Gou935/note",
-            },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Gou935`,
     },
     prism: {
       theme: prismThemes.github,
