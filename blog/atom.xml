@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gou935.github.io/note/blog</id>
-    <title>我的筆記 Blog</title>
+    <title>Gou's Note Blog</title>
     <updated>2025-01-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gou935.github.io/note/blog"/>
-    <subtitle>我的筆記 Blog</subtitle>
-    <icon>https://gou935.github.io/note/img/kirby.jpg</icon>
+    <subtitle>Gou's Note Blog</subtitle>
+    <icon>https://gou935.github.io/note/img/kirby_run.png</icon>
     <entry>
         <title type="html"><![CDATA[Lopia 幸運禮盒開箱]]></title>
         <id>https://gou935.github.io/note/blog/lopia-luckybox</id>
