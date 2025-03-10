@@ -1,6 +1,7 @@
 ---
 slug: japanese-learning
 title: 日語初學方法
+subtitle: ok
 tags: ["日文", "japanese"]
 date: 2025-03-10
 ---
@@ -43,17 +44,19 @@ date: 2025-03-10
 
 ### 日語文法
 
-### 推薦學習網站
+## 推薦學習網站
 
 在這邊我想推薦三個我當初學習日語時的學習資源。
 
-#### 1.[時雨之町](https://www.sigure.tw/)
+### 1.[時雨之町](https://www.sigure.tw/)
+
+![圖片來源：https://www.sigure.tw/learn-japanese/grammar/n3/08](/img/blog/shigure.jpg)
 
 時雨之町是由一位架設的網站，我想在台灣的日語學習者或多或少都有看過這個網站吧。網站上有許多的文法解說，單字等各式各樣的文章，從我剛開始學習日文（2019 年）就開始使用，直到現在都還有在陸續更新內容。
 
 使用方法：關鍵字 + 時雨之町
 
-#### 2.[出口仁老師（Youtube 頻道）](https://www.youtube.com/@deguchi)
+### 2.[出口仁老師（Youtube 頻道）](https://www.youtube.com/@deguchi)
 
 出口仁老師是一位在台的日本語老師，他拍攝了一系列的日語初學教學影片。
 老師本身會說中文（而且說得很不錯），所以即使是零基礎的人也可以在看課程的時候得到詳細的教學和標準的發音。
@@ -66,7 +69,9 @@ date: 2025-03-10
 日本語入門系列的 6 部影片從 50 音開始講解，包括每一個音的讀音，寫法和該注意的地方，非常適合完全沒有日文基礎的人學習。
 而大家的日本語文法系列則根據【大家的日本語】這本書教學，每一部影片都會講解，如果你可以好好的理解每一部影片介紹的文法，一定會對你的日語學習有很大的幫助。
 
-#### 3.[音速日語網站](https://jp.sonic-learning.com/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/08jCjRkv9zc?si=4hd1pJp5FCL51rb2" title="出口仁日語" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 3.[音速日語網站](https://jp.sonic-learning.com/)
 
 音速日語是一個綜合的日語網站，我在剛開始學習日語時，用來查詢片語和文法的用法。
 跟我當初，網站已經有許多的變化
@@ -75,7 +80,7 @@ date: 2025-03-10
 
 想要查詢　として〜的用法的話
 
-#### 4.[毎日のんびり日本語教師](https://mainichi-nonbiri.com/)
+### 4.[毎日のんびり日本語教師](https://mainichi-nonbiri.com/)
 
 這一個網站是在我學習日語偏後期的時候發現的。
 
