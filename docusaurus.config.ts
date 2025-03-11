@@ -63,6 +63,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+
     trailingSlash: false,
     image: "img/docusaurus-social-card.jpg",
     navbar: {
@@ -138,6 +139,17 @@ const config: Config = {
       contextualSearch: true, // 啟用語境搜尋
       searchParameters: {},
     },
+    presets: [
+      [
+        "@docusaurus/preset-classic",
+        {
+          gtag: {
+            trackingID: "G-GSZXKE8VLG",
+            anonymizeIP: true,
+          },
+        },
+      ],
+    ],
   } satisfies Preset.ThemeConfig,
 };
 

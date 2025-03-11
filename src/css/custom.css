@@ -30,3 +30,12 @@
   background-color: #333333;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* 調整搜尋結果中的關鍵字高亮顯示 */
+.ais-Highlight mark {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  padding: 0 2px;
+  border-radius: 3px;
+}
