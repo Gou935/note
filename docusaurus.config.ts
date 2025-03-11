@@ -13,7 +13,7 @@ const config: Config = {
   url: "https://gou935.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/note/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -141,7 +141,7 @@ const config: Config = {
     },
     presets: [
       [
-        "@docusaurus/preset-classic",
+        "classic",
         {
           gtag: {
             trackingID: "G-GSZXKE8VLG",
