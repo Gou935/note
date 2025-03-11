@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[67],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"CHUNITHM","permalink":"/docs/tags/chunithm","count":1},{"label":"\u4e2d\u4e8c\u7bc0\u594f","permalink":"/docs/tags/\u4e2d\u4e8c\u7bc0\u594f","count":1},{"label":"\u4e2d\u4e8c","permalink":"/docs/tags/\u4e2d\u4e8c","count":1}]}')}}]);
