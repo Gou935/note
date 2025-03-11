@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Gou&#39;s Note</ShortName>
+  <Description>Search Gou&#39;s Note</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://gou935.github.io/note/img/kirby_run.png</Image>
+  <Url type="text/html" method="get" template="https://gou935.github.io/note/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://gou935.github.io/note/opensearch.xml" />
+  <moz:SearchForm>https://gou935.github.io/note/</moz:SearchForm>
+</OpenSearchDescription>
