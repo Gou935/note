@@ -3,6 +3,7 @@ title: 日文輸入法打字教學
 slug: japanese-typing
 tags: ["日文", "japanese"]
 date: 2025-03-10
+draft: true
 ---
 
 ## 常被忽略的日文打字

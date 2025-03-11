@@ -1,9 +1,9 @@
 ---
 title: "部落格介紹！！"
 description: "來看看有什麼功能吧！"
-image: img/blog.jpg
-date: 2023-02-16T19:05:56+09:00
-draft: false
+draft: true
+last_update:
+  date: 2025-03-11
 ---
 
 ### 這個部落格是什麼？
