@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Gou's Note Blog</title>
-        <link>https://gou935.github.io/blog</link>
+        <link>https://gou935.github.io/note/blog</link>
         <description>Gou's Note Blog</description>
         <lastBuildDate>Tue, 07 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,20 +10,20 @@
         <language>en</language>
         <item>
             <title><![CDATA[Lopia 幸運禮盒開箱]]></title>
-            <link>https://gou935.github.io/blog/lopia-luckybox</link>
-            <guid>https://gou935.github.io/blog/lopia-luckybox</guid>
+            <link>https://gou935.github.io/note/blog/lopia-luckybox</link>
+            <guid>https://gou935.github.io/note/blog/lopia-luckybox</guid>
             <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[幸運盒]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="幸運盒" src="https://gou935.github.io/assets/images/box-e0943e23bd67f55ec5a84a060f0445ee.jpg" width="3024" height="4032" class="img_ev3q"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="幸運盒" src="https://gou935.github.io/note/assets/images/box-e0943e23bd67f55ec5a84a060f0445ee.jpg" width="3024" height="4032" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2025的七件事情]]></title>
-            <link>https://gou935.github.io/blog/2025-first-blog-post</link>
-            <guid>https://gou935.github.io/blog/2025-first-blog-post</guid>
+            <link>https://gou935.github.io/note/blog/2025-first-blog-post</link>
+            <guid>https://gou935.github.io/note/blog/2025-first-blog-post</guid>
             <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[在看了 Wiwi.Blog 的這篇文章後覺得很有啟發，也想趁著新年開始有幹勁時給自己一些期許。]]></description>
             <content:encoded><![CDATA[<p>在看了 Wiwi.Blog 的<a href="https://wiwi.blog/blog/seven-questions" target="_blank" rel="noopener noreferrer">這篇文章</a>後覺得很有啟發，也想趁著新年開始有幹勁時給自己一些期許。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-過去一年的亮點">1. 過去一年的亮點<a href="https://gou935.github.io/blog/2025-first-blog-post#1-%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E7%9A%84%E4%BA%AE%E9%BB%9E" class="hash-link" aria-label="Direct link to 1. 過去一年的亮點" title="Direct link to 1. 過去一年的亮點">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-過去一年的亮點">1. 過去一年的亮點<a href="https://gou935.github.io/note/blog/2025-first-blog-post#1-%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E7%9A%84%E4%BA%AE%E9%BB%9E" class="hash-link" aria-label="Direct link to 1. 過去一年的亮點" title="Direct link to 1. 過去一年的亮點">​</a></h3>
 <p>老實說，雖然覺得沒什麼亮點，但還是有完成以下的事情。
 回過頭來看其實也還不錯，並沒有自己想的那麼無聊。</p>
 <ul>
@@ -36,23 +36,23 @@
 <li>在電腦上架了自己私有的筆記系統（Memos、Codimd）</li>
 <li>搞定了家中吃灰的 NAS</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-這一年中最困難的部分">2. 這一年中最困難的部分<a href="https://gou935.github.io/blog/2025-first-blog-post#2-%E9%80%99%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E5%9B%B0%E9%9B%A3%E7%9A%84%E9%83%A8%E5%88%86" class="hash-link" aria-label="Direct link to 2. 這一年中最困難的部分" title="Direct link to 2. 這一年中最困難的部分">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-這一年中最困難的部分">2. 這一年中最困難的部分<a href="https://gou935.github.io/note/blog/2025-first-blog-post#2-%E9%80%99%E4%B8%80%E5%B9%B4%E4%B8%AD%E6%9C%80%E5%9B%B0%E9%9B%A3%E7%9A%84%E9%83%A8%E5%88%86" class="hash-link" aria-label="Direct link to 2. 這一年中最困難的部分" title="Direct link to 2. 這一年中最困難的部分">​</a></h3>
 <p>我覺得最難的還是是跟著計劃走吧，一年之中的總是有許多想做卻沒完成的事。
 不過就像原子習慣說的：</p>
 <div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>決定你成功或失敗的，不是你的目標，而是你的系統。</p></div></div>
 <p>我想先從養成穩定的習慣開始吧！</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-這一年來對自己的認識">3. 這一年來對自己的認識<a href="https://gou935.github.io/blog/2025-first-blog-post#3-%E9%80%99%E4%B8%80%E5%B9%B4%E4%BE%86%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AA%8D%E8%AD%98" class="hash-link" aria-label="Direct link to 3. 這一年來對自己的認識" title="Direct link to 3. 這一年來對自己的認識">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-這一年來對自己的認識">3. 這一年來對自己的認識<a href="https://gou935.github.io/note/blog/2025-first-blog-post#3-%E9%80%99%E4%B8%80%E5%B9%B4%E4%BE%86%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AA%8D%E8%AD%98" class="hash-link" aria-label="Direct link to 3. 這一年來對自己的認識" title="Direct link to 3. 這一年來對自己的認識">​</a></h3>
 <ul>
 <li>喜歡閱讀文字</li>
 <li>我需要一個穩定的生活節奏</li>
 <li>真的不是一個適合晚睡的人</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-明年要停止做的事情">4. 明年要停止做的事情<a href="https://gou935.github.io/blog/2025-first-blog-post#4-%E6%98%8E%E5%B9%B4%E8%A6%81%E5%81%9C%E6%AD%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 4. 明年要停止做的事情" title="Direct link to 4. 明年要停止做的事情">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-明年要停止做的事情">4. 明年要停止做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#4-%E6%98%8E%E5%B9%B4%E8%A6%81%E5%81%9C%E6%AD%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 4. 明年要停止做的事情" title="Direct link to 4. 明年要停止做的事情">​</a></h3>
 <ul>
 <li>熬夜</li>
 <li>花太多時間瀏覽網頁</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-明年要開始做的事情">5. 明年要開始做的事情<a href="https://gou935.github.io/blog/2025-first-blog-post#5-%E6%98%8E%E5%B9%B4%E8%A6%81%E9%96%8B%E5%A7%8B%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 5. 明年要開始做的事情" title="Direct link to 5. 明年要開始做的事情">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-明年要開始做的事情">5. 明年要開始做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#5-%E6%98%8E%E5%B9%B4%E8%A6%81%E9%96%8B%E5%A7%8B%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 5. 明年要開始做的事情" title="Direct link to 5. 明年要開始做的事情">​</a></h3>
 <ul>
 <li>
 <p>開始玩以前買過的遊戲</p>
@@ -63,9 +63,9 @@
 <p>作為一名留學生，雖然英日語都有一些基礎，但很明顯的我的英日語能力都還不夠精通。</p>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-明年要繼續做的事情">6. 明年要繼續做的事情<a href="https://gou935.github.io/blog/2025-first-blog-post#6-%E6%98%8E%E5%B9%B4%E8%A6%81%E7%B9%BC%E7%BA%8C%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 6. 明年要繼續做的事情" title="Direct link to 6. 明年要繼續做的事情">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-明年要繼續做的事情">6. 明年要繼續做的事情<a href="https://gou935.github.io/note/blog/2025-first-blog-post#6-%E6%98%8E%E5%B9%B4%E8%A6%81%E7%B9%BC%E7%BA%8C%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85" class="hash-link" aria-label="Direct link to 6. 明年要繼續做的事情" title="Direct link to 6. 明年要繼續做的事情">​</a></h3>
 <p>不知道要寫什麼，不如就先保留吧。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-今天要採取的第一步">7. 今天要採取的第一步<a href="https://gou935.github.io/blog/2025-first-blog-post#7-%E4%BB%8A%E5%A4%A9%E8%A6%81%E6%8E%A1%E5%8F%96%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5" class="hash-link" aria-label="Direct link to 7. 今天要採取的第一步" title="Direct link to 7. 今天要採取的第一步">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-今天要採取的第一步">7. 今天要採取的第一步<a href="https://gou935.github.io/note/blog/2025-first-blog-post#7-%E4%BB%8A%E5%A4%A9%E8%A6%81%E6%8E%A1%E5%8F%96%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5" class="hash-link" aria-label="Direct link to 7. 今天要採取的第一步" title="Direct link to 7. 今天要採取的第一步">​</a></h3>
 <p>我想簡單點，就先從早點睡覺開始吧。晚安～</p>]]></content:encoded>
         </item>
     </channel>
