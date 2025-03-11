@@ -17,3 +17,13 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+日文:
+  label: 日文
+  permalink: /blog/tags/日文
+  description: 日文 tag description
+
+japanese:
+  label: "japanese"
+  permalink: /blog/tags/japanese
+  description: "japanese tag description"
