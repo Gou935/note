@@ -2,28 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gou935.github.io/note/blog</id>
     <title>Gou's Note Blog</title>
-    <updated>2025-03-10T00:00:00.000Z</updated>
+    <updated>2025-01-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gou935.github.io/note/blog"/>
     <subtitle>Gou's Note Blog</subtitle>
     <icon>https://gou935.github.io/note/img/kirby_run.png</icon>
-    <entry>
-        <title type="html"><![CDATA[日文輸入法打字教學]]></title>
-        <id>https://gou935.github.io/note/blog/japanese-typing</id>
-        <link href="https://gou935.github.io/note/blog/japanese-typing"/>
-        <updated>2025-03-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[常被忽略的日文打字]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="常被忽略的日文打字">常被忽略的日文打字<a href="https://gou935.github.io/note/blog/japanese-typing#%E5%B8%B8%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E6%97%A5%E6%96%87%E6%89%93%E5%AD%97" class="hash-link" aria-label="Direct link to 常被忽略的日文打字" title="Direct link to 常被忽略的日文打字">​</a></h2>
-<p>我相信在台灣有許多的日語學習者，明明已經可以認識 50 音，並且理解基礎的文法和單字，甚至可以書寫日文了，卻很少在手機或電腦使用日文輸入法。如果想要快速的查詢不會的單字和文法
-所以這邊文章就一起來看看如何使用日文輸入法吧！</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="在電腦上">在電腦上<a href="https://gou935.github.io/note/blog/japanese-typing#%E5%9C%A8%E9%9B%BB%E8%85%A6%E4%B8%8A" class="hash-link" aria-label="Direct link to 在電腦上" title="Direct link to 在電腦上">​</a></h3>
-<p>在電腦上我最常使用的就是羅馬音輸入法，原因是</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="在手機上">在手機上<a href="https://gou935.github.io/note/blog/japanese-typing#%E5%9C%A8%E6%89%8B%E6%A9%9F%E4%B8%8A" class="hash-link" aria-label="Direct link to 在手機上" title="Direct link to 在手機上">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="羅馬音">羅馬音<a href="https://gou935.github.io/note/blog/japanese-typing#%E7%BE%85%E9%A6%AC%E9%9F%B3" class="hash-link" aria-label="Direct link to 羅馬音" title="Direct link to 羅馬音">​</a></h4>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="九宮格">九宮格<a href="https://gou935.github.io/note/blog/japanese-typing#%E4%B9%9D%E5%AE%AE%E6%A0%BC" class="hash-link" aria-label="Direct link to 九宮格" title="Direct link to 九宮格">​</a></h4>]]></content>
-        <category label="日文" term="日文"/>
-        <category label="japanese" term="japanese"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lopia 幸運禮盒開箱]]></title>
         <id>https://gou935.github.io/note/blog/lopia-luckybox</id>
@@ -83,37 +66,5 @@
 <p>不知道要寫什麼，不如就先保留吧。</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-今天要採取的第一步">7. 今天要採取的第一步<a href="https://gou935.github.io/note/blog/2025-first-blog-post#7-%E4%BB%8A%E5%A4%A9%E8%A6%81%E6%8E%A1%E5%8F%96%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5" class="hash-link" aria-label="Direct link to 7. 今天要採取的第一步" title="Direct link to 7. 今天要採取的第一步">​</a></h3>
 <p>我想簡單點，就先從早點睡覺開始吧。晚安～</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部落格介紹！！]]></title>
-        <id>https://gou935.github.io/note/blog/2025/03/10/2025/blog-intro</id>
-        <link href="https://gou935.github.io/note/blog/2025/03/10/2025/blog-intro"/>
-        <updated>2023-02-16T10:05:56.000Z</updated>
-        <summary type="html"><![CDATA[來看看有什麼功能吧！]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="這個部落格是什麼">這個部落格是什麼？<a href="https://gou935.github.io/note/blog/2025/03/10/2025/blog-intro#%E9%80%99%E5%80%8B%E9%83%A8%E8%90%BD%E6%A0%BC%E6%98%AF%E4%BB%80%E9%BA%BC" class="hash-link" aria-label="Direct link to 這個部落格是什麼？" title="Direct link to 這個部落格是什麼？">​</a></h3>
-<p>這個 Blog 是用<a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>架設的個人部落格。</p>
-<p>使用的主題是 Jimmy 的<a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener noreferrer">Stack</a>，很乾淨漂亮的 Theme 我很喜歡。</p>
-<p>部落格的內容包括遊戲、音樂等任何我有興趣的事，偶爾也會當日記記錄一下生活。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="部落格功能介紹">部落格功能介紹<a href="https://gou935.github.io/note/blog/2025/03/10/2025/blog-intro#%E9%83%A8%E8%90%BD%E6%A0%BC%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9" class="hash-link" aria-label="Direct link to 部落格功能介紹" title="Direct link to 部落格功能介紹">​</a></h3>
-<ul>
-<li>
-<p>文章庫（Archives）</p>
-<p>文章庫裡所有的文章會按照年份及分類的方式排列</p>
-</li>
-<li>
-<p>搜尋（Search）</p>
-<p>只要打上要找的關鍵字就可以全文搜尋，而且超快！！</p>
-</li>
-<li>
-<p>Categories（分類）</p>
-<p>在分類你可以透過特定的標籤找到想看的文章，目前還很少就是了～</p>
-</li>
-<li>
-<p>Avatar（頭像）</p>
-<p>左上角有可愛的狗狗～</p>
-<p>頭像下面 👇 有我的社群媒體</p>
-</li>
-</ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="先介紹到這裡">先介紹到這裡～<a href="https://gou935.github.io/note/blog/2025/03/10/2025/blog-intro#%E5%85%88%E4%BB%8B%E7%B4%B9%E5%88%B0%E9%80%99%E8%A3%A1" class="hash-link" aria-label="Direct link to 先介紹到這裡～" title="Direct link to 先介紹到這裡～">​</a></h3>]]></content>
     </entry>
 </feed>
