@@ -132,13 +132,6 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    algolia: {
-      appId: "9FM51H34I9",
-      apiKey: "f8d57110c8bfc31a3236209ba9e9ee40",
-      indexName: "gou935io",
-      contextualSearch: true, // 啟用語境搜尋
-      searchParameters: {},
-    },
     presets: [
       [
         "classic",
